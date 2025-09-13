@@ -19,7 +19,7 @@ import {
 import Logo from "../assets/logo2.png";
 import Hero from "../assets/hero3.jpg";
 import AmitPic from "../assets/ag-pic.jpg";
-import SumitPic from "../assets/sg-pic.png";
+import SumitPic from "../assets/Sg-pic.png";
 
 export default function GoraiTuitionSite() {
   const courses = [
